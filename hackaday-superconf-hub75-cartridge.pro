@@ -1,4 +1,4 @@
-update=Tue 05 Nov 2019 09:57:11 CET
+update=Tue 05 Nov 2019 14:51:44 CET
 version=1
 last_client=kicad
 [general]
@@ -126,3 +126,13 @@ LibName92=Xicor
 LibName93=xilinx
 LibName94=zetex
 LibName95=Zilog
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=60
+ERC_TestSimilarLabels=1
